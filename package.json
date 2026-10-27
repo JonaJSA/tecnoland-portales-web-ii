@@ -1,0 +1,13 @@
+{
+  "name": "tecnoland",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Catálogo académico TecnoLand para Portales Web II",
+  "scripts": { "dev": "lite-server" },
+  "dependencies": {
+    "bootstrap": "4.6.2",
+    "jquery": "3.7.1",
+    "popper.js": "1.16.1"
+  },
+  "devDependencies": { "lite-server": "2.6.1" }
+}
